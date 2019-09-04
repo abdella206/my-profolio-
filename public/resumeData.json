@@ -5,7 +5,7 @@
     "description":"that has the drive and passion to achieve great things",
     "image":"profilepic.jpg",
     "bio":"Junior level software developer that can solve any problem I put my mind to with dedication and time. I believe in life to every problem comes a solution therefore I’m not the one to give up! My inspiration, passion and motivation come from the tech driven world all around us!",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Contact me",
     "email": "abdella2066@outlook.com",
     "phone": "206-422-5323",
     "address":{
@@ -80,24 +80,26 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"react.png"
+        "title":"HouseOfWidom",
+        "category":"Words Of Wisdom & Wise Quotes",
+        "image":"wisdom.png"
         
       },
 
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg"
+        "title":"Ballin",
+        "category":"Basketball & Sports",
+        "image":"balling.png"
       
       },
+      
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg"
-        
+        "title":"21 Card Game",
+        "category":"Games",
+        "image":"21card.png"
+      
       }
+      
       
     ]
   },

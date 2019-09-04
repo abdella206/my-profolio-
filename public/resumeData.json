@@ -14,7 +14,7 @@
       "state":"(WA)"
       
     },
-    "website": "http://www.timbakerdev.com",
+    
     "resumedownload":"https://drive.google.com/open?id=1o3wgSkcgxjRFWjDfJeAYq_Rzomk6rTlN",
     "social":[
     
@@ -40,27 +40,41 @@
 
     "skills":[
       {
-        "name":"Git"
         
+        "image":"js.png"
+      },
+
+      {
+        
+        "image":"react.png"
       },
     
       {
-        "name":"ReactJs"
+        
+        "image":"python.png"
       
       },
       {
-        "name":"CSS"
+        
+        "image":"node.png"
         
       },
       {
-        "name":"HTML5"
         
+        "image":"blank.png"
       },
-  
+
       {
-        "name":"MongoDB"
+        
+        "image":"mongo.png"
+      },
+      {
+        
+        "image":"post.png"
         
       }
+  
+      
     ]
   },
   "portfolio":{
@@ -68,33 +82,23 @@
       {
         "title":"Canadian Wanderlust",
         "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"react.png"
+        
       },
+
       {
         "title":"Fury Fighting Gear",
         "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"fury-fighting-gear.jpg"
+      
       },
       {
         "title":"Original Thai Food",
         "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "image":"original-thai-food.jpg"
+        
       }
+      
     ]
   },
   "testimonials":{

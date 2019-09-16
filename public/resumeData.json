@@ -30,6 +30,12 @@
         "name":"github",
         "url":"https://github.com/abdella206",
         "className":"fa fa-github"
+      },
+
+      {
+        "name":"email",
+        "url":"mailto:abdella2066@outlook.com",
+        "className":"fa fa-envelope"
       }
   
     ]
@@ -72,6 +78,16 @@
         
         "image":"post.png"
         
+      },
+      {
+        
+        "image":"html.png"
+        
+      },
+      {
+        
+        "image":"django.png"
+        
       }
   
       
@@ -85,6 +101,22 @@
         "image":"wisdom.png"
         
       },
+      
+      {
+        "title":"21 Card Game",
+        "category":"Games",
+        "image":"21card.png",
+        "url":"https://abdella206.github.io/21-game/"
+      
+      },
+
+      {
+        "title":"BrowsingForHousing",
+        "category":"Hackathon",
+        "image":"browsingforhousing.png",
+        "url":"https://github.com/abdella206/browsing-house-app"
+      
+      },
 
       {
         "title":"Ballin",
@@ -92,13 +124,9 @@
         "image":"balling.png"
       
       },
+
+      {}
       
-      {
-        "title":"21 Card Game",
-        "category":"Games",
-        "image":"21card.png"
-      
-      }
       
       
     ]

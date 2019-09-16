@@ -20,16 +20,34 @@ class Contact extends Component {
             <div className="row section-head">
 
                <div className="two columns header-col">
+                  <div>
+
+                     <p className="lead">{message}</p>
+
+                  </div>
 
                   <h1><span>Get In Touch.</span></h1>
 
+                  <aside>
+                     <div className="widget widget_contact">
+
+                        <h4>Phone</h4>
+                        <p className="address">
+                           {name}<br />
+
+                           {city}, {state}<br />
+                           <span>{phone}</span>
+                        </p>
+                     </div>
+
+
+                  </aside>
+
                </div>
 
-               <div className="ten columns">
 
-                  <p className="lead">{message}</p>
 
-               </div>
+
 
             </div>
 
@@ -68,27 +86,14 @@ class Contact extends Component {
                      </fieldset>
                   </form> */}
 
-                  <div id="message-warning"> Error boy</div>
+                  {/* <div id="message-warning"> Error boy</div>
                   <div id="message-success">
                      <i className="fa fa-check"></i>Your message was sent, thank you!<br />
-                  </div>
+                  </div> */}
                </div>
 
 
-               <aside className="four columns footer-widgets">
-                  <div className="widget widget_contact">
 
-                     <h4>Phone & Email</h4>
-                     <p className="address">
-                        {name}<br />
-                        {email}<br />
-                        {city}, {state}<br />
-                        <span>{phone}</span>
-                     </p>
-                  </div>
-
-            
-               </aside>
             </div>
          </section>
       );

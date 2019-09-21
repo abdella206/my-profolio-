@@ -96,6 +96,13 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Ballin",
+        "category":"Basketball & Sports",
+        "image":"balling.png",
+        "url":"https://balling206.herokuapp.com/"
+      
+      }
+      {
         "title":"HouseOfWidom",
         "category":"Words Of Wisdom & Wise Quotes",
         "image":"wisdom.png",
@@ -118,14 +125,9 @@
         "url":"https://github.com/abdella206/browsing-house-app"
       
       },
+      {}
 
-      {
-        "title":"Ballin",
-        "category":"Basketball & Sports",
-        "image":"balling.png",
-        "url":"https://balling206.herokuapp.com/"
-      
-      }
+
 
       
       

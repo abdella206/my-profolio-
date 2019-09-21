@@ -98,7 +98,8 @@
       {
         "title":"HouseOfWidom",
         "category":"Words Of Wisdom & Wise Quotes",
-        "image":"wisdom.png"
+        "image":"wisdom.png",
+        "url":"https://house-of-wisdom.herokuapp.com/"
         
       },
       
@@ -121,11 +122,14 @@
       {
         "title":"Ballin",
         "category":"Basketball & Sports",
-        "image":"balling.png"
+        "image":"balling.png",
+        "url":"https://balling206.herokuapp.com/"
       
-      },
+      }
 
-      {}
+      
+      
+      
       
       
       

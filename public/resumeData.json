@@ -4,7 +4,7 @@
     "occupation":"(Full Stack Developer)",
     "description":"that has the drive and passion to achieve great things",
     "image":"profilepic.jpg",
-    "bio":"Full stack software developer/engineer that can solve any problem I put my mind to with dedication and time. I believe in life to every problem comes a solution therefore I’m not the one to give up! My inspiration, passion and motivation come from the tech driven world all around us! ...“The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.”~~~Tim Berners-Lee",
+    "bio":"Full stack software developer/engineer that can solve any problem I put my mind to with dedication and time. I believe in life to every problem comes a solution therefore I’m not the one to give up! My inspiration, passion and motivation come from the tech driven world all around us! ...“The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.”             ~Tim Berners-Lee",
     "contactmessage":"Contact me",
     "email": "abdella2066@outlook.com",
     "phone": "206-422-5323",
@@ -135,18 +135,6 @@
       
       
       
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
-      }
     ]
   }
 }
